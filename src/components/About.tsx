@@ -80,7 +80,7 @@ const About = () => (
     <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
       <div className="grid gap-12 lg:grid-cols-[0.8fr_1.2fr] lg:gap-20">
         <div>
-          <p className="section-label">Profile / 01</p>
+          <p className="section-label">Profile</p>
           <h2 className="section-title">Engineering beyond the interface.</h2>
         </div>
         <div>

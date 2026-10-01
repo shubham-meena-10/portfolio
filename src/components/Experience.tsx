@@ -227,7 +227,7 @@ const experiences = [
     company: 'HORA Services Pvt. Ltd.',
     companyUrl: 'https://horaservices.com',
     role: 'Full Stack Developer',
-    location: 'India',
+    location: 'Bangalore, India',
     period: 'Jul 2025 — Present',
     projects: [
       {
@@ -254,7 +254,7 @@ const experiences = [
         ],
       },
       {
-        name: 'HORA Services',
+        name: 'HORA',
         projectUrl: 'https://horaservices.com',
         label: 'Production platform',
         description:
@@ -281,7 +281,7 @@ const experiences = [
     company: 'Singaji Software Solutions',
     companyUrl: "https://singaji.in",
     role: 'Full Stack Developer',
-    location: 'Sandalpur',
+    location: 'Sandalpur, India',
     period: 'Sep 2023 — Jun 2025',
     projects: [
       {
@@ -326,7 +326,7 @@ const experiences = [
     company: 'Baelworks Innovation',
     companyUrl: "",
     role: 'Frontend Developer',
-    location: 'Bangalore',
+    location: 'Bangalore, India',
     period: 'Jan 2023 — Aug 2023',
     projects: [
       {
@@ -339,6 +339,7 @@ const experiences = [
           'Integrated PhonePe for online student fee payments',
           'Built administrator data visualizations',
           'Developed student reports for academic tracking',
+          "Implemented students id card scanning and verification for attendance and access control systems",
         ],
         technologies: [
           'React.js',
@@ -355,7 +356,7 @@ const Experience = () => (
   <section id="experience" className="bg-background py-24">
     <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
       <div className="mb-16">
-        <p className="section-label">Experience / 03</p>
+        <p className="section-label">Experience</p>
         <h2 className="section-title">
           Production systems, built end to end.
         </h2>
