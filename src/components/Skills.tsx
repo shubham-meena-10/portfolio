@@ -92,7 +92,7 @@ const Skills = () => (
     <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
       <div className="mb-14 flex flex-col justify-between gap-5 md:flex-row md:items-end">
         <div>
-          <p className="section-label">Capabilities / 02</p>
+          <p className="section-label">Capabilities</p>
           <h2 className="section-title mb-0">Technology across the stack.</h2>
         </div>
         <p className="max-w-md text-muted-foreground">Backend and infrastructure lead the toolkit, supported by a mature React and Next.js frontend practice.</p>

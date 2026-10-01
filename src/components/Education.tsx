@@ -97,13 +97,13 @@ const Education = () => {
       institution: "Sage University, Indore",
       period: "2024 - 2026",
       // status: "Pursuing",
-      percentage: "7 CGPA"
+      percentage: "8 CGPA"
     },
     {
       degree: "B.C.A. (Computer Application)",
       institution: "Vikram University, Ujjain",
       period: "2021 - 2024",
-      percentage: "76.00%"
+      percentage: "77 %"
     },
     // {
     //   degree: "Class 12, M.P. Board of Secondary Education",
